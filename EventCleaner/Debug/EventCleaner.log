@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  GetFileHandle.cpp
+d:\c++\eventcleaner\eventcleaner\getfilehandle.cpp(109): warning C4018: “<=”: 有符号/无符号不匹配
+d:\c++\eventcleaner\eventcleaner\getfilehandle.cpp(114): warning C4302: “类型转换”: 从“HANDLE”到“USHORT”截断
+d:\c++\eventcleaner\eventcleaner\getfilehandle.cpp(121): warning C4018: “<=”: 有符号/无符号不匹配
+  EventCleaner.cpp
+  正在生成代码...
+d:\c++\eventcleaner\eventcleaner\getfilehandle.cpp(178): warning C4715: “fn_trav_proc_handle”: 不是所有的控件路径都返回值
+  EventCleaner.vcxproj -> D:\c++\EventCleaner\Debug\EventCleaner.exe

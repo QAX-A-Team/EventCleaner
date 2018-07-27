@@ -1,0 +1,15 @@
+﻿  EventCleaner.cpp
+EventCleaner.cpp(567): warning C4311: “类型转换”: 从“HANDLE”到“DWORD”的指针截断
+EventCleaner.cpp(567): warning C4302: “类型转换”: 从“HANDLE”到“DWORD”截断
+EventCleaner.cpp(573): warning C4311: “类型转换”: 从“HANDLE”到“DWORD”的指针截断
+EventCleaner.cpp(573): warning C4302: “类型转换”: 从“HANDLE”到“DWORD”截断
+EventCleaner.cpp(576): warning C4311: “类型转换”: 从“HANDLE”到“DWORD”的指针截断
+EventCleaner.cpp(576): warning C4302: “类型转换”: 从“HANDLE”到“DWORD”截断
+EventCleaner.cpp(585): warning C4311: “类型转换”: 从“HANDLE”到“DWORD”的指针截断
+EventCleaner.cpp(585): warning C4302: “类型转换”: 从“HANDLE”到“DWORD”截断
+  正在生成代码
+  2 of 582 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  EventCleaner.vcxproj -> D:\c++\eventcleaner\x64\Release\EventCleaner.exe

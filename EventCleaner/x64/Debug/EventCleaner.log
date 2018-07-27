@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  GetFileHandle.cpp
+d:\c++\eventcleaner\eventcleaner\getfilehandle.cpp(44): warning C4311: “类型转换”: 从“LPVOID”到“DWORD”的指针截断
+d:\c++\eventcleaner\eventcleaner\getfilehandle.cpp(44): warning C4302: “类型转换”: 从“LPVOID”到“DWORD”截断
+d:\c++\eventcleaner\eventcleaner\getfilehandle.cpp(67): warning C4311: “类型转换”: 从“HANDLE”到“DWORD”的指针截断
+d:\c++\eventcleaner\eventcleaner\getfilehandle.cpp(67): warning C4302: “类型转换”: 从“HANDLE”到“DWORD”截断
+d:\c++\eventcleaner\eventcleaner\getfilehandle.cpp(75): warning C4311: “类型转换”: 从“LPVOID”到“DWORD”的指针截断
+d:\c++\eventcleaner\eventcleaner\getfilehandle.cpp(75): warning C4302: “类型转换”: 从“LPVOID”到“DWORD”截断
+d:\c++\eventcleaner\eventcleaner\getfilehandle.cpp(109): warning C4018: “<=”: 有符号/无符号不匹配
+d:\c++\eventcleaner\eventcleaner\getfilehandle.cpp(114): warning C4302: “类型转换”: 从“HANDLE”到“USHORT”截断
+d:\c++\eventcleaner\eventcleaner\getfilehandle.cpp(121): warning C4018: “<=”: 有符号/无符号不匹配
+  EventCleaner.cpp
+d:\c++\eventcleaner\eventcleaner\eventcleaner.cpp(391): warning C4311: “类型转换”: 从“HANDLE”到“DWORD”的指针截断
+d:\c++\eventcleaner\eventcleaner\eventcleaner.cpp(391): warning C4302: “类型转换”: 从“HANDLE”到“DWORD”截断
+d:\c++\eventcleaner\eventcleaner\eventcleaner.cpp(397): warning C4311: “类型转换”: 从“HANDLE”到“DWORD”的指针截断
+d:\c++\eventcleaner\eventcleaner\eventcleaner.cpp(397): warning C4302: “类型转换”: 从“HANDLE”到“DWORD”截断
+d:\c++\eventcleaner\eventcleaner\eventcleaner.cpp(400): warning C4311: “类型转换”: 从“HANDLE”到“DWORD”的指针截断
+d:\c++\eventcleaner\eventcleaner\eventcleaner.cpp(400): warning C4302: “类型转换”: 从“HANDLE”到“DWORD”截断
+d:\c++\eventcleaner\eventcleaner\eventcleaner.cpp(409): warning C4311: “类型转换”: 从“HANDLE”到“DWORD”的指针截断
+d:\c++\eventcleaner\eventcleaner\eventcleaner.cpp(409): warning C4302: “类型转换”: 从“HANDLE”到“DWORD”截断
+  正在生成代码...
+d:\c++\eventcleaner\eventcleaner\getfilehandle.cpp(178): warning C4715: “fn_trav_proc_handle”: 不是所有的控件路径都返回值
+  EventCleaner.vcxproj -> D:\c++\EventCleaner\x64\Debug\EventCleaner.exe

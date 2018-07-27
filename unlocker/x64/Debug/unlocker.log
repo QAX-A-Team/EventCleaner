@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+d:\c++\eventcleaner\unlocker\dllmain.cpp(26): warning C4312: “类型转换”: 从“DWORD”转换到更大的“HANDLE”
+d:\c++\eventcleaner\unlocker\dllmain.cpp(27): warning C4312: “类型转换”: 从“DWORD”转换到更大的“HANDLE”
+  unlocker.vcxproj -> D:\c++\EventCleaner\x64\Debug\unlocker.dll
